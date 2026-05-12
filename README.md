@@ -1,6 +1,6 @@
 # Hi, I'm Manas 👋 
 
-### Software Developer | Full-Stack & Distributed Systems
+### Full-Stack Engineer @Snowflake | Patent-Pending | Building at the intersection of Distributed Systems & Agentic AI.
 I specialize in building scalable microservices and AI-driven applications. Currently, I'm focusing on high-scale systems and exploring the intersection of AI agents and cloud infrastructure.
 
 ---
